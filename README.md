@@ -5,7 +5,7 @@ Este podcast de 3 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[NoteGPT]([https://www.elevenlabs.io](https://notegpt.io/ai-podcast-generator))** geração do podcast.
+- IA Generativa **[NoteGPT](https://notegpt.io/ai-podcast-generator)** geração do podcast.
 
 ## 🧐 Processo de Criação
 "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "NoteGPT" ajudou a criar as vozes sintética envolvente para a narração.
